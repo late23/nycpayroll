@@ -1,0 +1,9 @@
+{
+	"name": "suhani",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "6a422a01-e6b8-4fd4-a0c1-a1dcd9a64ba6",
+		"tenantId": "f958e84a-92b8-439f-a62d-4f45996b6d07"
+	}
+}
